@@ -24,7 +24,7 @@ A nice way to manage reminders
 
 Clone the project
 ```bash
-  git clone https://gitlab.com/codelittinc/react-native-interview-project-paulo-torres.git
+  git clone https://github.com/PHtorres/react-native-calendar-challenge.git
 ```
 
 
