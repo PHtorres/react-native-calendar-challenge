@@ -79,8 +79,6 @@ Clean the project and rebuild.
 
 ## A message for the Code Reviewers
 
-- Guys, first, I would like to say that I am very happy for the opportunity and for this challenge delivered. It is something unique and has already served me as a sensational experience.
-
 - You will notice that throughout the project I used constant values ​​for the width and height of some components. The idea was to provide more performance for the lists. With these constants, this task is simplified.
 
 - At some points in the project, I left some comments about what I would have done in a real use case but I chose not to include it in this challenge because I believe this is not the focus.
@@ -99,8 +97,8 @@ With React Native and its eco system, we have a few ways to provide a nice layou
 
 
 ## 🚀 About Me
-- I’m currently working on <a href="https://www.bennu.com.br/" target="_blank"> BennuTV</a> Mobile Apps;
-- I’m currently learning .NET 6 and React Native Animations with Moti Lib;
+- I’m currently working on <a href="https://www.codelitt.com/" target="_blank"> Codelitt</a> Mobile Apps;
+- I’m currently learning Swift for IOS native apps;
 - I’m looking to collaborate on React or React Native products;
 - Ask me about React Native, React, .NET, C# and TypeScript;
 
