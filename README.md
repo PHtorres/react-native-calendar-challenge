@@ -77,7 +77,7 @@ Clean the project and rebuild.
 
 
 
-## A message for the Code Reviewers
+## A message to the Code Reviewers
 
 - You will notice that throughout the project I used constant values ​​for the width and height of some components. The idea was to provide more performance for the lists. With these constants, this task is simplified.
 
